@@ -8,11 +8,10 @@ This branch holds the code which is deployed.
 
 This is a full-stack todo application built entirely by me, Arpith Indukuri.
 
-This purpose of this project is to give me demonstrable experience using industry standard softwares
-like SQL, Microsoft Azure, .NET, React.
+This purpose of this project is to give me demonstrable experience using industry standard softwares like SQL, Microsoft Azure, .NET, React.
 
-This project is not meant to be a groundbreaking idea, or have excellent design.
-It is meant to demonstrate my ability to implement your idea in a pragmatic and functional manner.
+This todo app is not meant to be a groundbreaking idea, or have excellent design.
+It is meant to demonstrate my ability to implement your idea in a pragmatic and functional manner, and to manage my projects and tasks.
 Therefore, the design will be simple, and app functionality will be minimal.
 However, I do aim to write excellent code, and deploy a fully functioning, secure, and scalable product.
 
@@ -37,9 +36,9 @@ This project demonstrate my level of competency in:
 
 # TODO
 
-- [ ] Requirements document
-  - [ ] Functional requirements
-  - [ ] Non-functional requirements
+- [x] [Requirements document](Requirements.md)
+  - [x] Functional requirements
+  - [x] Non-functional requirements
 - [ ] Implementation plan
   - [ ] Technologies to use
   - [ ] High level architecture diagram
@@ -75,7 +74,15 @@ This project demonstrate my level of competency in:
 
 # Progress Updates
 
-## Arpil 4th, 2022
+## Tuesday, April 5th, 2022
+
+I completed the requirements, but took an extra day to flesh it out by researching software requirements online, and format it as a markdown file instead.
+
+I looked into some design ideas for the moodboard, but instead decided to keep it easy and simple and just use the [Material 3 Design Kit by Tharadol Phuhadsaun](https://www.figma.com/community/file/1090781564385530310), found on figma.
+
+Tomorrow, I will hopefully complete a tentative implementation plan, including the technologies to use, my reasoning behind each choice, and a high level architecture diagram.
+
+## Monday, Arpil 4th, 2022
 
 Today, I will complete the requirements doc, and hopefully add some ideas to the moodboard.
 
