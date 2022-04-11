@@ -68,6 +68,27 @@ This project demonstrate my level of competency in:
 
 # Progress Updates
 
+## Sunday, April 10th, 2022
+
+#### Progress Made
+
+I completed the implementation plan.
+It took much longer than expected, but I now feel much more comfortable with the technologies I am attempting to learn, because of all the time I've spent reviewing Azure documentation.
+
+#### Decisions Made
+
+I now think its a good idea to use each project to explore a whole suite of related tools.
+This project I will learn as much as I can about the Microsoft Azure PaaS.
+I have learned about and decided to use ASP.NET Core (For building the backend APIs) Azure App Service (for API hosting and web-app hosting), in addition to Azure SQL Database, React, and React Native as planned.
+
+I also looked into authentication using Azure.
+As far as I can tell, there are a few different ways of doing this using Azure, and I will have to select and implement the best method when I get there.
+
+#### Next Steps
+
+Next, I need to do the app design on figma.
+I have this planned out in my head, so hopefully putting it on paper will go fast.
+
 ## Tuesday, April 5th, 2022
 
 I completed the requirements, but took an extra day to flesh it out by researching software requirements online, and format it as a markdown file instead.
