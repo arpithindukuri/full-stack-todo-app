@@ -1,7 +1,5 @@
 # <center>Full Stack Todo App - Requirements</center>
 
----
-
 ## Functional Requirements
 
 #### Signup
@@ -28,8 +26,6 @@
 
 - Each todo has a name `(max 100 characters)`, checkbox indicating if it is completed, deadline, and reminder.
 - User can add, view, edit, or delete todos in each list.
-
----
 
 ## Non-Functional Requirements
 
@@ -81,8 +77,6 @@
 - App should use a simple, intuitive UI
 - App should be performant
 - App should be efficient with the number of intense operations, like sorting large lists, or API calls.
-
----
 
 <!-- ## Screens
 

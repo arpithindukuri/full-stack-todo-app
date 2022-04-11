@@ -2,8 +2,6 @@
 
 This branch holds the code which is deployed.
 
----
-
 # About
 
 This is a full-stack todo application built entirely by me, Arpith Indukuri.
@@ -32,14 +30,12 @@ This project demonstrate my level of competency in:
 - Project management
 - Codebase management
 
----
-
 # TODO
 
 - [x] [Requirements document](Requirements.md)
   - [x] Functional requirements
   - [x] Non-functional requirements
-- [ ] Implementation plan
+- [ ] Implementation plan document
   - [ ] Technologies to use
   - [ ] High level architecture diagram
 - [ ] Figma design
@@ -70,8 +66,6 @@ This project demonstrate my level of competency in:
   - [ ] Deploy
 - [ ] Add to portfolio/resume
 
----
-
 # Progress Updates
 
 ## Tuesday, April 5th, 2022
@@ -85,5 +79,3 @@ Tomorrow, I will hopefully complete a tentative implementation plan, including t
 ## Monday, Arpil 4th, 2022
 
 Today, I will complete the requirements doc, and hopefully add some ideas to the moodboard.
-
----
