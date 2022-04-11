@@ -48,3 +48,5 @@ Taskfiles is an easy, functional, cross-platform task runner which can run comma
 ## Architecture Overview
 
 ![](assets/architecture-overview.png)
+
+Diagram Link: https://lucid.app/lucidchart/cc98bd93-386d-43fa-8fa3-06100ee8acaa/edit?invitationId=inv_7e384b92-6985-402b-836b-be9e3f9daf6d
