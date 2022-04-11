@@ -35,9 +35,9 @@ This project demonstrate my level of competency in:
 - [x] [Requirements document](Requirements.md)
   - [x] Functional requirements
   - [x] Non-functional requirements
-- [ ] Implementation plan document
-  - [ ] Technologies to use
-  - [ ] High level architecture diagram
+- [x] [Implementation plan document](Implementation%20Plan.md)
+  - [x] Technologies to use
+  - [x] High level architecture diagram
 - [ ] Figma design
   - [ ] Web app
   - [ ] Mobile app
